@@ -31,7 +31,7 @@ The manufacturing process models are done with the following steps: data collect
   - Logistic Regression
   - Naive Bayes
   - Decision Tree/Random Forest
-Prediction Results
+- Prediction Results Comparison
 
 _Additional analysis:
 Neural Network comparison_
