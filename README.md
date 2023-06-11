@@ -1,4 +1,13 @@
-# Heart Disease Predictions Using Machine Learning
+# CS 613: Machine Learning
+
+## _Final Project_: Heart Disease Predictions Using Machine Learning
+
+> #### Our Team:
+> - Harsh Bolakani hvb36@drexel.edu
+> - Greg Morgan gm655@drexel.edu
+> - Trevor Pawlewicz tmp365@drexel.edu
+
+---
 
 ### Mission Statement
 
@@ -28,3 +37,7 @@ _Additional analysis:
 Neural Network comparison_
 
 ![Research Flow](./images/Model_flow.png "Research Flow")
+
+---
+
+![Drexel logo](./images/Drexel-engineering-blue-black.png "Drexel Engineering")
