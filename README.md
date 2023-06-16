@@ -38,6 +38,9 @@ Neural Network comparison_
 
 ![Research Flow](./images/Model_flow.png "Research Flow")
 
+### Run the Jupyter notebook on your local computer:
+notebook/`CS613_project_heart_disease_prediction.ipynb`
+
 ---
 
 ![Drexel logo](./images/Drexel-engineering-blue-black.png "Drexel Engineering")
